@@ -1,3 +1,14 @@
+/*
+ *  \
+ *  \\,
+ *   \\\,^,.,,.                     Zero to Hero
+ *   ,;7~((\))`;;,,               <zerotohero.dev>
+ *   ,(@') ;)`))\;;',    stay up to date, be curious: learn
+ *    )  . ),((  ))\;,
+ *   /;`,,/7),)) )) )\,,
+ *  (& )`   (,((,((;( ))\,
+ */
+
 package sanitization
 
 const (
@@ -6,3 +17,6 @@ const (
 	maxPasswordLength              = 250
 	maxTokenLength                 = 1000
 )
+
+const DefaultFullName = "FizzBuzz Pro"
+const MinPasswordLength = 6
